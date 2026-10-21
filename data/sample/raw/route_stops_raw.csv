@@ -1,0 +1,16 @@
+route_id,seq,stop_name
+T1,1,Mirpur 1
+T1,2,Mirpur 10
+T1,3,Agargaon
+T1,4,Farmgate
+T1,5,Karwan Bazar
+T1,6,Shahbag
+T2,1,Mirpur-1
+T2,2,Technical
+T2,3,Shyamoli
+T2,4,Asad Gate
+T2,5,Farm Gate
+T2,6,Kawran Bazar
+T3,1,Shahbag
+T3,2,Gulistan
+T3,3,Sadarghat

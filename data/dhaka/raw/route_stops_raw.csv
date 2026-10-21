@@ -1,0 +1,211 @@
+﻿route_id,seq,stop_name
+R01,1,Tongi
+R01,2,Abdullahpur
+R01,3,House Building
+R01,4,Azampur
+R01,5,Jasimuddin
+R01,6,Airport
+R01,7,Kawla
+R01,8,Khilkhet
+R01,9,Kuril
+R01,10,MES
+R01,11,Sainik Club
+R01,12,Kakoli
+R01,13,Chairman Bari
+R01,14,Mohakhali
+R01,15,Jahangir Gate
+R01,16,Bijoy Sarani
+R01,17,Farm Gate
+R01,18,Kawran Bazar
+R01,19,Bangla Motor
+R01,20,Shahbagh
+R01,21,Matsya Bhaban
+R01,22,Press Club
+R01,23,GPO
+R01,24,Gulistan
+R01,25,Motijheel
+R02,1,Mirpur 12
+R02,2,Mirpur 11
+R02,3,Mirpur-10
+R02,4,Kazipara
+R02,5,Sheorapara
+R02,6,Taltola
+R02,7,Agargaon
+R02,8,Bijoy Shoroni
+R02,9,Farmgate
+R02,10,Karwan Bazar
+R02,11,Banglamotor
+R02,12,Shahbag
+R02,13,Matsya Bhaban
+R02,14,Press Club
+R02,15,Paltan
+R02,16,Fakirapool
+R02,17,Motijheel
+R03,1,Amin Bazar
+R03,2,Gabtoli
+R03,3,Technical
+R03,4,Kalyanpur
+R03,5,Shyamoli
+R03,6,College Gate
+R03,7,Asadgate
+R03,8,Dhanmondi 27
+R03,9,Russell Square
+R03,10,Kalabagan
+R03,11,Science Laboratory
+R03,12,New Market
+R03,13,Azimpur
+R04,1,Mirpur 1
+R04,2,Ansar Camp
+R04,3,Bangla College
+R04,4,Darussalam
+R04,5,Kallyanpur
+R04,6,Shyamoli
+R04,7,College Gate
+R04,8,Asad Gate
+R04,9,Sobhanbag
+R04,10,Russell Square
+R04,11,Kalabagan
+R04,12,Science Lab
+R04,13,Kataban
+R04,14,Shahbag
+R04,15,Matsya Bhaban
+R04,16,Press Club
+R04,17,GPO
+R04,18,Gulistan Zero Point
+R04,19,Ray Saheb Bazar
+R04,20,Victoria Park
+R04,21,Sadarghat
+R05,1,Mirpur 10
+R05,2,  Mirpur 14 
+R05,3,Kochukhet
+R05,4,Jahangir Gate
+R05,5,Mohakhali
+R05,6,Gulshan 1
+R05,7,Badda
+R06,1,Mirpur 1
+R06,2,Mirpur 2
+R06,3,Mirpur 10
+R06,4,Mirpur 11
+R06,5,Kalshi
+R06,6,ECB Chattar
+R06,7,MES
+R06,8,Kuril Bishwa Road
+R06,9,Jamuna Future Park
+R07,1,Abdullahpur
+R07,2,House Building
+R07,3,Azampur
+R07,4,Jasimuddin
+R07,5,Airport
+R07,6,Kawla
+R07,7,Khilkhet
+R07,8,Kuril
+R07,9,Bashundhara
+R07,10,Notun Bazar
+R07,11,Uttar Badda
+R07,12,Badda
+R07,13,Merul Badda
+R07,14,Rampura
+R07,15,Malibag
+R07,16,Shantinagar
+R07,17,Paltan
+R07,18,Gulistan
+R07,19,Tikatuli
+R07,20,Sayedabad
+R07,21,Jatrabari
+R08,1,Mohammadpur
+R08,2,Town Hall
+R08,3,Asad Gate
+R08,4,Khamarbari
+R08,5,Farmgate
+R08,6,Karwan Bazar
+R08,7,Bangla Motor
+R08,8,Shahbag
+R08,9,Matsya Bhaban
+R08,10,Press Club
+R08,11,Paltan
+R08,12,Fakirapool
+R08,13,Motijheel
+R08,14,Kamalapur
+R09,1,Mohammadpur
+R09,2,Shankar
+R09,3,Jigatola
+R09,4,Science Lab
+R09,5,Nilkhet
+R09,6,Palashi
+R09,7,Bakshi Bazar
+R09,8,Chankharpul
+R09,9,Gulistan
+R10,1,Aminbazar
+R10,2,Gabtoli
+R10,3,Mazar Road
+R10,4,Mirpur-1
+R10,5,Mirpur-2
+R10,6,Mirpur 10
+R10,7,Mirpur 11
+R10,8,Mirpur 12
+R11,1,Mohakhali
+R11,2,Nabisco
+R11,3,Satrasta
+R11,4,Moghbazar
+R11,5,Kakrail
+R11,6,Paltan
+R11,7,Gulistan
+R11,8,Ray Saheb Bazar
+R11,9,Victoria Park
+R11,10,Sadarghat
+R12,1,Gulshan 1
+R12,2,Gulshan 2
+R12,3,Kakoli
+R12,4,Mohakhali
+R12,5,Gulshan 1
+R13,1,Kakoli
+R13,2,Gulshan 2
+R13,3,natun bazar
+R13,4,Uttar Badda
+R13,5,Badda
+R13,6,Merul Badda
+R13,7,Rampura
+R13,8,Banasree
+R14,1,Bangla Motor
+R14,2,Mogbazar
+R14,3,Mouchak
+R14,4,Malibagh
+R14,5,Khilgaon
+R14,6,Basabo
+R14,7,Mugda
+R14,8,Kamalapur
+R14,9,Motijheel
+R15,1,Postogola
+R15,2,Jurain
+R15,3,Jatrabari
+R15,4,Kajla
+R15,5,Shonir Akhra
+R15,6,Rayerbag
+R15,7,Signboard
+R16,1,Gulistan
+R16,2,Tikatuli
+R16,3,Saidabad
+R16,4,Jatrabari
+R16,5,Kazla
+R16,6,Shanir Akhra
+R16,7,Rayerbag
+R16,8,Signboard
+R17,1,Gabtoli
+R17,2,Technical
+R17,3,Kallyanpur
+R17,4,Shyamoli
+R17,5,Adabor
+R17,6,Mohammadpur
+R18,1,Shyamoli
+R18,2,College Gate
+R18,3,Asad Gate
+R18,4,Dhanmondi 27
+R18,5,Russell Square
+R18,6,Panthapath
+R18,7,Karwan Bazar
+R18,8,Bangla Motor
+R18,9,Mogbazar
+R18,10,Mouchak
+R18,11,Malibagh
+R18,12,Rampura
+R18,13,Banasree

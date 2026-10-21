@@ -1,0 +1,102 @@
+stop_id,name_en,lat,lon,aliases
+S001,Tongi,23.8975,90.4050,Tongi Station Road
+S002,Abdullahpur,23.8800,90.4010,
+S003,House Building,23.8735,90.4005,Uttara House Building
+S004,Azampur,23.8680,90.4000,
+S005,Jasimuddin,23.8612,90.3998,Uttara Jasimuddin|Jashimuddin
+S006,Airport,23.8505,90.4078,Airport Bus Stand|Biman Bandar
+S007,Kawla,23.8420,90.4135,
+S008,Khilkhet,23.8295,90.4205,
+S009,Kuril Bishwa Road,23.8205,90.4210,Kuril|Bishwa Road|Kuril Bishwaroad
+S010,MES,23.8120,90.4075,Shewra
+S011,Sainik Club,23.7975,90.4010,
+S012,Kakoli,23.7925,90.4005,Banani|Kakoli Banani
+S013,Chairman Bari,23.7860,90.4020,Chairmanbari
+S014,Mohakhali,23.7780,90.4050,Mohakhali Bus Terminal
+S015,Jahangir Gate,23.7748,90.3982,
+S016,Bijoy Sarani,23.7660,90.3885,Bijoy Shoroni|Bijoy Sharani
+S017,Farmgate,23.7577,90.3895,Farm Gate
+S018,Karwan Bazar,23.7510,90.3935,Kawran Bazar|Karwan Bazaar
+S019,Bangla Motor,23.7462,90.3955,Banglamotor
+S020,Shahbag,23.7385,90.3958,Shahbagh
+S021,Matsya Bhaban,23.7335,90.4030,Matsho Bhaban
+S022,Press Club,23.7300,90.4060,
+S023,GPO,23.7275,90.4130,
+S024,Gulistan,23.7245,90.4120,Gulistan Zero Point|Zero Point
+S025,Motijheel,23.7300,90.4200,Shapla Chattar|Motijheel Shapla Chattar
+S026,Kamalapur,23.7320,90.4255,Kamalapur Railway Station
+S027,Paltan,23.7340,90.4125,Purana Paltan
+S028,Fakirapool,23.7335,90.4165,Fakirapul
+S029,Mirpur 12,23.8265,90.3640,Mirpur-12|Pallabi
+S030,Mirpur 11,23.8180,90.3655,Mirpur-11|Purabi
+S031,Mirpur 10,23.8070,90.3685,Mirpur-10|Mirpur 10 Golchattar
+S032,Kazipara,23.7975,90.3725,
+S033,Shewrapara,23.7905,90.3755,Sheorapara
+S034,Taltola,23.7840,90.3770,
+S035,Agargaon,23.7780,90.3790,
+S036,Khamarbari,23.7595,90.3845,
+S037,Mirpur 2,23.8040,90.3625,Mirpur-2|Stadium
+S038,Mirpur 1,23.7985,90.3535,Mirpur-1
+S039,Ansar Camp,23.7935,90.3530,
+S040,Bangla College,23.7865,90.3545,
+S041,Technical,23.7825,90.3535,Darussalam|Technical Mor
+S042,Mirpur 14,23.7985,90.3870,Mirpur-14
+S043,Kochukhet,23.7900,90.3890,
+S044,Kalshi,23.8205,90.3810,
+S045,ECB Chattar,23.8215,90.3955,ECB Square
+S046,Gabtoli,23.7835,90.3440,Gabtoli Bus Terminal
+S047,Kallyanpur,23.7785,90.3605,Kalyanpur
+S048,Shyamoli,23.7745,90.3655,Shyamoli Square
+S049,College Gate,23.7695,90.3685,
+S050,Asad Gate,23.7605,90.3725,Asadgate
+S051,Dhanmondi 27,23.7560,90.3760,Sobhanbag|Road 27
+S052,Russell Square,23.7520,90.3790,
+S053,Kalabagan,23.7475,90.3810,
+S054,Science Lab,23.7385,90.3840,Science Laboratory|Sciencelab
+S055,New Market,23.7330,90.3845,Newmarket
+S056,Azimpur,23.7270,90.3860,
+S057,Nilkhet,23.7325,90.3890,
+S058,Kataban,23.7395,90.3912,
+S059,Palashi,23.7290,90.3920,
+S060,Bakshi Bazar,23.7255,90.3975,Bakshibazar
+S061,Chankharpul,23.7235,90.4005,Chankhar Pul
+S062,Mohammadpur,23.7590,90.3600,Mohammadpur Bus Stand
+S063,Town Hall,23.7615,90.3655,Mohammadpur Town Hall
+S064,Adabor,23.7700,90.3570,
+S065,Shankar,23.7505,90.3690,Sankar
+S066,Jigatola,23.7395,90.3755,
+S067,Bashundhara,23.8135,90.4240,Jamuna Future Park|JFP
+S068,Natun Bazar,23.7975,90.4235,Notun Bazar
+S069,Uttar Badda,23.7860,90.4260,
+S070,Badda,23.7805,90.4260,Madhya Badda
+S071,Merul Badda,23.7725,90.4245,
+S072,Rampura,23.7630,90.4200,Rampura Bridge|Rampura TV Gate
+S073,Banasree,23.7600,90.4370,Banashree
+S074,Malibagh,23.7500,90.4130,Malibag
+S075,Mouchak,23.7465,90.4105,Mouchak Market
+S076,Mogbazar,23.7490,90.4045,Moghbazar|Magbazar
+S077,Kakrail,23.7395,90.4075,
+S078,Shantinagar,23.7410,90.4140,
+S079,Satrasta,23.7605,90.3995,Tejgaon Satrasta
+S080,Nabisco,23.7685,90.4025,
+S081,Gulshan 1,23.7805,90.4165,Gulshan-1
+S082,Gulshan 2,23.7945,90.4145,Gulshan-2
+S083,Khilgaon,23.7510,90.4250,
+S084,Basabo,23.7400,90.4300,Bashabo
+S085,Mugda,23.7330,90.4305,
+S086,Tikatuli,23.7215,90.4195,
+S087,Saidabad,23.7210,90.4260,Sayedabad|Sayedabad Bus Terminal
+S088,Jatrabari,23.7100,90.4345,
+S089,Kajla,23.7065,90.4410,Kazla
+S090,Shonir Akhra,23.7045,90.4485,Shanir Akhra
+S091,Rayerbag,23.7005,90.4585,
+S092,Signboard,23.6955,90.4790,
+S093,Postogola,23.6895,90.4290,
+S094,Jurain,23.6960,90.4335,
+S095,Sadarghat,23.7060,90.4090,Sadarghat Launch Terminal
+S096,Victoria Park,23.7090,90.4125,Bahadur Shah Park
+S097,Ray Saheb Bazar,23.7135,90.4115,Rayshaheb Bazar|Roy Shaheb Bazar
+S098,Aminbazar,23.7900,90.3270,Amin Bazar
+S099,Mazar Road,23.7925,90.3460,
+S100,Panthapath,23.7515,90.3875,Panthapath Signal
+S101,Jinjira,23.7000,90.4000,Keraniganj Jinjira
