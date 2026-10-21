@@ -496,3 +496,4 @@ your own: Windows **Win+Shift+S**, macOS **Cmd+Shift+4**).
 | App window too big or text tiny | it sizes itself to the screen; drag the edge to resize. Windows display scaling (Settings → Display → Scale) also applies |
 | App shows old data after editing CSVs | press **Reload data** on the Data check page |
 | Bengali names look wrong | save CSVs as UTF-8 (VS Code: bottom bar → encoding → Save with Encoding → UTF-8) |
+rn## Contributorsrnrn- Hasnain Roja � project contributor.
