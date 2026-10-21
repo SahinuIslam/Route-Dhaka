@@ -1,0 +1,28 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache and test cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# OpenStreetMap downloads
+data/osm/
+
+# Logs
+*.log

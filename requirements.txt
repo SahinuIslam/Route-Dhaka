@@ -1,0 +1,7 @@
+networkx>=3.0
+pandas>=2.0
+matplotlib>=3.7
+folium>=0.14
+customtkinter>=5.2
+pytest>=7.0
+ipykernel>=6.0
