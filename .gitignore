@@ -26,3 +26,4 @@ data/osm/
 
 # Logs
 *.log
+/Route-Dhaka/
