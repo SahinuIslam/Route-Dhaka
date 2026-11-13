@@ -1,0 +1,4 @@
+from,to,reachable,fewest_hops,fewest_hops_km,shortest_km,shortest_km_hops,same_path,bus_changes,routes,hop_path,distance_path
+Mirpur 1,Farmgate,True,3,7.689,6.76,4,False,0,T1,Mirpur 1 > Mirpur 10 > Agargaon > Farmgate,Mirpur 1 > Technical > Shyamoli > Asad Gate > Farmgate
+Mirpur 10,Sadarghat,True,6,12.5,12.5,6,True,1,T1 > T3,Mirpur 10 > Agargaon > Farmgate > Karwan Bazar > Shahbag > Gulistan > Sadarghat,Mirpur 10 > Agargaon > Farmgate > Karwan Bazar > Shahbag > Gulistan > Sadarghat
+Technical,Sadarghat,True,7,11.587,11.587,7,True,2,T2 > T1 > T3,Technical > Shyamoli > Asad Gate > Farmgate > Karwan Bazar > Shahbag > Gulistan > Sadarghat,Technical > Shyamoli > Asad Gate > Farmgate > Karwan Bazar > Shahbag > Gulistan > Sadarghat

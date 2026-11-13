@@ -1,0 +1,12 @@
+stop_id,name,degree,routes_serving
+S04,Farmgate,3,2
+S01,Mirpur 1,2,2
+S05,Karwan Bazar,2,2
+S06,Shahbag,2,2
+S02,Mirpur 10,2,1
+S03,Agargaon,2,1
+S07,Technical,2,1
+S08,Shyamoli,2,1
+S09,Asad Gate,2,1
+S10,Gulistan,2,1
+S11,Sadarghat,1,1

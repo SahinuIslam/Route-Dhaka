@@ -1,0 +1,100 @@
+u,v,u_name,v_name,distance_km
+S023,S024,GPO,Gulistan,0.349
+S060,S061,Bakshi Bazar,Chankharpul,0.378
+S027,S028,Paltan,Fakirapool,0.411
+S040,S041,Bangla College,Technical,0.456
+S074,S075,Malibagh,Mouchak,0.465
+S020,S058,Shahbag,Kataban,0.481
+S095,S096,Sadarghat,Victoria Park,0.488
+S021,S022,Matsya Bhaban,Press Club,0.495
+S057,S059,Nilkhet,Palashi,0.495
+S096,S097,Victoria Park,Ray Saheb Bazar,0.511
+S026,S085,Kamalapur,Mugda,0.521
+S025,S028,Motijheel,Fakirapool,0.528
+S051,S052,Dhanmondi 27,Russell Square,0.539
+S052,S053,Russell Square,Kalabagan,0.54
+S017,S036,Farmgate,Khamarbari,0.547
+S038,S039,Mirpur 1,Ansar Camp,0.558
+S011,S012,Sainik Club,Kakoli,0.558
+S018,S019,Karwan Bazar,Bangla Motor,0.571
+S025,S026,Motijheel,Kamalapur,0.602
+S069,S070,Uttar Badda,Badda,0.612
+S018,S100,Karwan Bazar,Panthapath,0.613
+S003,S004,House Building,Azampur,0.614
+S054,S055,Science Lab,New Market,0.614
+S050,S051,Asad Gate,Dhanmondi 27,0.614
+S062,S063,Mohammadpur,Town Hall,0.625
+S048,S049,Shyamoli,College Gate,0.634
+S086,S087,Tikatuli,Saidabad,0.664
+S075,S076,Mouchak,Mogbazar,0.671
+S047,S048,Kallyanpur,Shyamoli,0.676
+S059,S060,Palashi,Bakshi Bazar,0.682
+S055,S056,New Market,Azimpur,0.684
+S031,S037,Mirpur 10,Mirpur 2,0.696
+S034,S035,Taltola,Agargaon,0.698
+S050,S063,Asad Gate,Town Hall,0.721
+S002,S003,Abdullahpur,House Building,0.725
+S012,S013,Kakoli,Chairman Bari,0.739
+S033,S034,Shewrapara,Taltola,0.739
+S054,S058,Science Lab,Kataban,0.741
+S004,S005,Azampur,Jasimuddin,0.756
+S022,S023,Press Club,GPO,0.765
+S088,S089,Jatrabari,Kajla,0.768
+S014,S015,Mohakhali,Jahangir Gate,0.778
+S084,S085,Basabo,Mugda,0.78
+S039,S040,Ansar Camp,Bangla College,0.793
+S027,S078,Paltan,Shantinagar,0.793
+S089,S090,Kajla,Shonir Akhra,0.795
+S027,S077,Paltan,Kakrail,0.796
+S022,S027,Press Club,Paltan,0.797
+S024,S086,Gulistan,Tikatuli,0.833
+S009,S067,Kuril Bishwa Road,Bashundhara,0.836
+S032,S033,Kazipara,Shewrapara,0.836
+S054,S057,Science Lab,Nilkhet,0.839
+S041,S047,Technical,Kallyanpur,0.84
+S017,S018,Farmgate,Karwan Bazar,0.849
+S093,S094,Postogola,Jurain,0.856
+S019,S020,Bangla Motor,Shahbag,0.857
+S052,S100,Russell Square,Panthapath,0.867
+S054,S066,Science Lab,Jigatola,0.872
+S070,S071,Badda,Merul Badda,0.903
+S020,S021,Shahbag,Matsya Bhaban,0.92
+S016,S017,Bijoy Sarani,Farmgate,0.929
+S013,S014,Chairman Bari,Mohakhali,0.94
+S079,S080,Satrasta,Nabisco,0.94
+S029,S030,Mirpur 12,Mirpur 11,0.957
+S070,S081,Badda,Gulshan 1,0.967
+S042,S043,Mirpur 14,Kochukhet,0.967
+S019,S076,Bangla Motor,Mogbazar,0.967
+S041,S046,Technical,Gabtoli,0.973
+S068,S082,Natun Bazar,Gulshan 2,0.975
+S048,S064,Shyamoli,Adabor,0.999
+S008,S009,Khilkhet,Kuril Bishwa Road,1.002
+S038,S099,Mirpur 1,Mazar Road,1.014
+S049,S050,College Gate,Asad Gate,1.08
+S014,S080,Mohakhali,Nabisco,1.087
+S037,S038,Mirpur 2,Mirpur 1,1.101
+S006,S007,Airport,Kawla,1.109
+S090,S091,Shonir Akhra,Rayerbag,1.111
+S031,S032,Mirpur 10,Kazipara,1.132
+S071,S072,Merul Badda,Rampura,1.151
+S014,S081,Mohakhali,Gulshan 1,1.203
+S024,S097,Gulistan,Ray Saheb Bazar,1.224
+S074,S083,Malibagh,Khilgaon,1.226
+S030,S031,Mirpur 11,Mirpur 10,1.261
+S068,S069,Natun Bazar,Uttar Badda,1.304
+S062,S065,Mohammadpur,Shankar,1.316
+S076,S079,Mogbazar,Satrasta,1.376
+S005,S006,Jasimuddin,Airport,1.441
+S044,S045,Kalshi,ECB Chattar,1.479
+S087,S088,Saidabad,Jatrabari,1.498
+S088,S094,Jatrabari,Jurain,1.56
+S007,S008,Kawla,Khilkhet,1.562
+S030,S044,Mirpur 11,Kalshi,1.601
+S010,S045,MES,ECB Chattar,1.614
+S009,S010,Kuril Bishwa Road,MES,1.667
+S072,S073,Rampura,Banasree,1.762
+S046,S098,Gabtoli,Aminbazar,1.875
+S015,S043,Jahangir Gate,Kochukhet,1.932
+S001,S002,Tongi,Abdullahpur,1.988
+S091,S092,Rayerbag,Signboard,2.16

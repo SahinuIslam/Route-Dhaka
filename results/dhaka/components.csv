@@ -1,0 +1,102 @@
+component,stop_id,name
+1,S001,Tongi
+1,S002,Abdullahpur
+1,S003,House Building
+1,S004,Azampur
+1,S005,Jasimuddin
+1,S006,Airport
+1,S007,Kawla
+1,S008,Khilkhet
+1,S009,Kuril Bishwa Road
+1,S010,MES
+1,S011,Sainik Club
+1,S012,Kakoli
+1,S013,Chairman Bari
+1,S014,Mohakhali
+1,S015,Jahangir Gate
+1,S016,Bijoy Sarani
+1,S017,Farmgate
+1,S018,Karwan Bazar
+1,S019,Bangla Motor
+1,S020,Shahbag
+1,S021,Matsya Bhaban
+1,S022,Press Club
+1,S023,GPO
+1,S024,Gulistan
+1,S025,Motijheel
+1,S026,Kamalapur
+1,S027,Paltan
+1,S028,Fakirapool
+1,S029,Mirpur 12
+1,S030,Mirpur 11
+1,S031,Mirpur 10
+1,S032,Kazipara
+1,S033,Shewrapara
+1,S034,Taltola
+1,S035,Agargaon
+1,S036,Khamarbari
+1,S037,Mirpur 2
+1,S038,Mirpur 1
+1,S039,Ansar Camp
+1,S040,Bangla College
+1,S041,Technical
+1,S042,Mirpur 14
+1,S043,Kochukhet
+1,S044,Kalshi
+1,S045,ECB Chattar
+1,S046,Gabtoli
+1,S047,Kallyanpur
+1,S048,Shyamoli
+1,S049,College Gate
+1,S050,Asad Gate
+1,S051,Dhanmondi 27
+1,S052,Russell Square
+1,S053,Kalabagan
+1,S054,Science Lab
+1,S055,New Market
+1,S056,Azimpur
+1,S057,Nilkhet
+1,S058,Kataban
+1,S059,Palashi
+1,S060,Bakshi Bazar
+1,S061,Chankharpul
+1,S062,Mohammadpur
+1,S063,Town Hall
+1,S064,Adabor
+1,S065,Shankar
+1,S066,Jigatola
+1,S067,Bashundhara
+1,S068,Natun Bazar
+1,S069,Uttar Badda
+1,S070,Badda
+1,S071,Merul Badda
+1,S072,Rampura
+1,S073,Banasree
+1,S074,Malibagh
+1,S075,Mouchak
+1,S076,Mogbazar
+1,S077,Kakrail
+1,S078,Shantinagar
+1,S079,Satrasta
+1,S080,Nabisco
+1,S081,Gulshan 1
+1,S082,Gulshan 2
+1,S083,Khilgaon
+1,S084,Basabo
+1,S085,Mugda
+1,S086,Tikatuli
+1,S087,Saidabad
+1,S088,Jatrabari
+1,S089,Kajla
+1,S090,Shonir Akhra
+1,S091,Rayerbag
+1,S092,Signboard
+1,S093,Postogola
+1,S094,Jurain
+1,S095,Sadarghat
+1,S096,Victoria Park
+1,S097,Ray Saheb Bazar
+1,S098,Aminbazar
+1,S099,Mazar Road
+1,S100,Panthapath
+2,S101,Jinjira

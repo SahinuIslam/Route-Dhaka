@@ -1,0 +1,12 @@
+step,moved_into_S,distance_km,updated
+1,Mirpur 1,0.0,"Mirpur 10=1.80, Technical=1.78"
+2,Technical,1.78,Shyamoli=3.29
+3,Mirpur 10,1.8,Agargaon=5.19
+4,Shyamoli,3.29,Asad Gate=5.00
+5,Asad Gate,5.0,Farmgate=6.76
+6,Agargaon,5.19,-
+7,Farmgate,6.76,Karwan Bazar=7.61
+8,Karwan Bazar,7.61,Shahbag=9.02
+9,Shahbag,9.02,Gulistan=11.29
+10,Gulistan,11.29,Sadarghat=13.37
+11,Sadarghat,13.37,-

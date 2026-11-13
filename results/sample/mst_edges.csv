@@ -1,0 +1,11 @@
+u,v,u_name,v_name,distance_km
+S04,S05,Farmgate,Karwan Bazar,0.849
+S05,S06,Karwan Bazar,Shahbag,1.41
+S07,S08,Technical,Shyamoli,1.511
+S08,S09,Shyamoli,Asad Gate,1.712
+S04,S09,Farmgate,Asad Gate,1.758
+S01,S07,Mirpur 1,Technical,1.779
+S01,S02,Mirpur 1,Mirpur 10,1.795
+S10,S11,Gulistan,Sadarghat,2.08
+S06,S10,Shahbag,Gulistan,2.268
+S03,S04,Agargaon,Farmgate,2.497

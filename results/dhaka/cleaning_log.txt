@@ -1,0 +1,27 @@
+R01 seq 9: 'Kuril' -> S009 Kuril Bishwa Road
+R01 seq 17: 'Farm Gate' -> S017 Farmgate
+R01 seq 18: 'Kawran Bazar' -> S018 Karwan Bazar
+R01 seq 20: 'Shahbagh' -> S020 Shahbag
+R02 seq 3: 'Mirpur-10' -> S031 Mirpur 10
+R02 seq 5: 'Sheorapara' -> S033 Shewrapara
+R02 seq 8: 'Bijoy Shoroni' -> S016 Bijoy Sarani
+R02 seq 11: 'Banglamotor' -> S019 Bangla Motor
+R03 seq 1: 'Amin Bazar' -> S098 Aminbazar
+R03 seq 4: 'Kalyanpur' -> S047 Kallyanpur
+R03 seq 7: 'Asadgate' -> S050 Asad Gate
+R03 seq 11: 'Science Laboratory' -> S054 Science Lab
+R04 seq 4: 'Darussalam' -> S041 Technical
+R04 seq 9: 'Sobhanbag' -> S051 Dhanmondi 27
+R04 seq 18: 'Gulistan Zero Point' -> S024 Gulistan
+R05 seq 2: '  Mirpur 14 ' -> S042 Mirpur 14
+R06 seq 9: 'Jamuna Future Park' -> S067 Bashundhara
+R07 seq 8: 'Kuril' -> S009 Kuril Bishwa Road
+R07 seq 10: 'Notun Bazar' -> S068 Natun Bazar
+R07 seq 15: 'Malibag' -> S074 Malibagh
+R07 seq 20: 'Sayedabad' -> S087 Saidabad
+R10 seq 4: 'Mirpur-1' -> S038 Mirpur 1
+R10 seq 5: 'Mirpur-2' -> S037 Mirpur 2
+R11 seq 4: 'Moghbazar' -> S076 Mogbazar
+R13 seq 3: 'natun bazar' -> S068 Natun Bazar
+R16 seq 5: 'Kazla' -> S089 Kajla
+R16 seq 6: 'Shanir Akhra' -> S090 Shonir Akhra

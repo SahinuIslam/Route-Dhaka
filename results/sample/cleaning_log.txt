@@ -1,0 +1,3 @@
+T2 seq 1: 'Mirpur-1' -> S01 Mirpur 1
+T2 seq 5: 'Farm Gate' -> S04 Farmgate
+T2 seq 6: 'Kawran Bazar' -> S05 Karwan Bazar

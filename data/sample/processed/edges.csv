@@ -1,0 +1,12 @@
+u,v,u_name,v_name,distance_km,weight_source,routes
+S01,S02,Mirpur 1,Mirpur 10,1.795,haversine,T1
+S01,S07,Mirpur 1,Technical,1.779,haversine,T2
+S02,S03,Mirpur 10,Agargaon,3.397,haversine,T1
+S03,S04,Agargaon,Farmgate,2.497,haversine,T1
+S04,S05,Farmgate,Karwan Bazar,0.849,haversine,T1;T2
+S04,S09,Farmgate,Asad Gate,1.758,haversine,T2
+S05,S06,Karwan Bazar,Shahbag,1.41,haversine,T1
+S06,S10,Shahbag,Gulistan,2.268,haversine,T3
+S07,S08,Technical,Shyamoli,1.511,haversine,T2
+S08,S09,Shyamoli,Asad Gate,1.712,haversine,T2
+S10,S11,Gulistan,Sadarghat,2.08,haversine,T3

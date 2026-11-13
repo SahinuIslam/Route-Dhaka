@@ -1,0 +1,120 @@
+u,v,u_name,v_name,distance_km,weight_source,routes
+S001,S002,Tongi,Abdullahpur,1.988,haversine,R01
+S002,S003,Abdullahpur,House Building,0.725,haversine,R01;R07
+S003,S004,House Building,Azampur,0.614,haversine,R01;R07
+S004,S005,Azampur,Jasimuddin,0.756,haversine,R01;R07
+S005,S006,Jasimuddin,Airport,1.441,haversine,R01;R07
+S006,S007,Airport,Kawla,1.109,haversine,R01;R07
+S007,S008,Kawla,Khilkhet,1.562,haversine,R01;R07
+S008,S009,Khilkhet,Kuril Bishwa Road,1.002,haversine,R01;R07
+S009,S010,Kuril Bishwa Road,MES,1.667,haversine,R01;R06
+S009,S067,Kuril Bishwa Road,Bashundhara,0.836,haversine,R06;R07
+S010,S011,MES,Sainik Club,1.743,haversine,R01
+S010,S045,MES,ECB Chattar,1.614,haversine,R06
+S011,S012,Sainik Club,Kakoli,0.558,haversine,R01
+S012,S013,Kakoli,Chairman Bari,0.739,haversine,R01
+S012,S014,Kakoli,Mohakhali,1.676,haversine,R12
+S012,S082,Kakoli,Gulshan 2,1.442,haversine,R12;R13
+S013,S014,Chairman Bari,Mohakhali,0.94,haversine,R01
+S014,S015,Mohakhali,Jahangir Gate,0.778,haversine,R01;R05
+S014,S080,Mohakhali,Nabisco,1.087,haversine,R11
+S014,S081,Mohakhali,Gulshan 1,1.203,haversine,R05;R12
+S015,S016,Jahangir Gate,Bijoy Sarani,1.39,haversine,R01
+S015,S043,Jahangir Gate,Kochukhet,1.932,haversine,R05
+S016,S017,Bijoy Sarani,Farmgate,0.929,haversine,R01;R02
+S016,S035,Bijoy Sarani,Agargaon,1.648,haversine,R02
+S017,S018,Farmgate,Karwan Bazar,0.849,haversine,R01;R02;R08
+S017,S036,Farmgate,Khamarbari,0.547,haversine,R08
+S018,S019,Karwan Bazar,Bangla Motor,0.571,haversine,R01;R02;R08;R18
+S018,S100,Karwan Bazar,Panthapath,0.613,haversine,R18
+S019,S020,Bangla Motor,Shahbag,0.857,haversine,R01;R02;R08
+S019,S076,Bangla Motor,Mogbazar,0.967,haversine,R14;R18
+S020,S021,Shahbag,Matsya Bhaban,0.92,haversine,R01;R02;R04;R08
+S020,S058,Shahbag,Kataban,0.481,haversine,R04
+S021,S022,Matsya Bhaban,Press Club,0.495,haversine,R01;R02;R04;R08
+S022,S023,Press Club,GPO,0.765,haversine,R01;R04
+S022,S027,Press Club,Paltan,0.797,haversine,R02;R08
+S023,S024,GPO,Gulistan,0.349,haversine,R01;R04
+S024,S025,Gulistan,Motijheel,1.018,haversine,R01
+S024,S027,Gulistan,Paltan,1.058,haversine,R07;R11
+S024,S061,Gulistan,Chankharpul,1.176,haversine,R09
+S024,S086,Gulistan,Tikatuli,0.833,haversine,R07;R16
+S024,S097,Gulistan,Ray Saheb Bazar,1.224,haversine,R04;R11
+S025,S026,Motijheel,Kamalapur,0.602,haversine,R08;R14
+S025,S028,Motijheel,Fakirapool,0.528,haversine,R02;R08
+S026,S085,Kamalapur,Mugda,0.521,haversine,R14
+S027,S028,Paltan,Fakirapool,0.411,haversine,R02;R08
+S027,S077,Paltan,Kakrail,0.796,haversine,R11
+S027,S078,Paltan,Shantinagar,0.793,haversine,R07
+S029,S030,Mirpur 12,Mirpur 11,0.957,haversine,R02;R10
+S030,S031,Mirpur 11,Mirpur 10,1.261,haversine,R02;R06;R10
+S030,S044,Mirpur 11,Kalshi,1.601,haversine,R06
+S031,S032,Mirpur 10,Kazipara,1.132,haversine,R02
+S031,S037,Mirpur 10,Mirpur 2,0.696,haversine,R06;R10
+S031,S042,Mirpur 10,Mirpur 14,2.106,haversine,R05
+S032,S033,Kazipara,Shewrapara,0.836,haversine,R02
+S033,S034,Shewrapara,Taltola,0.739,haversine,R02
+S034,S035,Taltola,Agargaon,0.698,haversine,R02
+S036,S050,Khamarbari,Asad Gate,1.226,haversine,R08
+S037,S038,Mirpur 2,Mirpur 1,1.101,haversine,R06;R10
+S038,S039,Mirpur 1,Ansar Camp,0.558,haversine,R04
+S038,S099,Mirpur 1,Mazar Road,1.014,haversine,R10
+S039,S040,Ansar Camp,Bangla College,0.793,haversine,R04
+S040,S041,Bangla College,Technical,0.456,haversine,R04
+S041,S046,Technical,Gabtoli,0.973,haversine,R03;R17
+S041,S047,Technical,Kallyanpur,0.84,haversine,R03;R04;R17
+S042,S043,Mirpur 14,Kochukhet,0.967,haversine,R05
+S044,S045,Kalshi,ECB Chattar,1.479,haversine,R06
+S046,S098,Gabtoli,Aminbazar,1.875,haversine,R03;R10
+S046,S099,Gabtoli,Mazar Road,1.021,haversine,R10
+S047,S048,Kallyanpur,Shyamoli,0.676,haversine,R03;R04;R17
+S048,S049,Shyamoli,College Gate,0.634,haversine,R03;R04;R18
+S048,S064,Shyamoli,Adabor,0.999,haversine,R17
+S049,S050,College Gate,Asad Gate,1.08,haversine,R03;R04;R18
+S050,S051,Asad Gate,Dhanmondi 27,0.614,haversine,R03;R04;R18
+S050,S063,Asad Gate,Town Hall,0.721,haversine,R08
+S051,S052,Dhanmondi 27,Russell Square,0.539,haversine,R03;R04;R18
+S052,S053,Russell Square,Kalabagan,0.54,haversine,R03;R04
+S052,S100,Russell Square,Panthapath,0.867,haversine,R18
+S053,S054,Kalabagan,Science Lab,1.046,haversine,R03;R04
+S054,S055,Science Lab,New Market,0.614,haversine,R03
+S054,S057,Science Lab,Nilkhet,0.839,haversine,R09
+S054,S058,Science Lab,Kataban,0.741,haversine,R04
+S054,S066,Science Lab,Jigatola,0.872,haversine,R09
+S055,S056,New Market,Azimpur,0.684,haversine,R03
+S057,S059,Nilkhet,Palashi,0.495,haversine,R09
+S059,S060,Palashi,Bakshi Bazar,0.682,haversine,R09
+S060,S061,Bakshi Bazar,Chankharpul,0.378,haversine,R09
+S062,S063,Mohammadpur,Town Hall,0.625,haversine,R08
+S062,S064,Mohammadpur,Adabor,1.261,haversine,R17
+S062,S065,Mohammadpur,Shankar,1.316,haversine,R09
+S065,S066,Shankar,Jigatola,1.391,haversine,R09
+S067,S068,Bashundhara,Natun Bazar,1.78,haversine,R07
+S068,S069,Natun Bazar,Uttar Badda,1.304,haversine,R07;R13
+S068,S082,Natun Bazar,Gulshan 2,0.975,haversine,R13
+S069,S070,Uttar Badda,Badda,0.612,haversine,R07;R13
+S070,S071,Badda,Merul Badda,0.903,haversine,R07;R13
+S070,S081,Badda,Gulshan 1,0.967,haversine,R05
+S071,S072,Merul Badda,Rampura,1.151,haversine,R07;R13
+S072,S073,Rampura,Banasree,1.762,haversine,R13;R18
+S072,S074,Rampura,Malibagh,1.612,haversine,R07;R18
+S074,S075,Malibagh,Mouchak,0.465,haversine,R14;R18
+S074,S078,Malibagh,Shantinagar,1.006,haversine,R07
+S074,S083,Malibagh,Khilgaon,1.226,haversine,R14
+S075,S076,Mouchak,Mogbazar,0.671,haversine,R14;R18
+S076,S077,Mogbazar,Kakrail,1.1,haversine,R11
+S076,S079,Mogbazar,Satrasta,1.376,haversine,R11
+S079,S080,Satrasta,Nabisco,0.94,haversine,R11
+S081,S082,Gulshan 1,Gulshan 2,1.57,haversine,R12
+S083,S084,Khilgaon,Basabo,1.325,haversine,R14
+S084,S085,Basabo,Mugda,0.78,haversine,R14
+S086,S087,Tikatuli,Saidabad,0.664,haversine,R07;R16
+S087,S088,Saidabad,Jatrabari,1.498,haversine,R07;R16
+S088,S089,Jatrabari,Kajla,0.768,haversine,R15;R16
+S088,S094,Jatrabari,Jurain,1.56,haversine,R15
+S089,S090,Kajla,Shonir Akhra,0.795,haversine,R15;R16
+S090,S091,Shonir Akhra,Rayerbag,1.111,haversine,R15;R16
+S091,S092,Rayerbag,Signboard,2.16,haversine,R15;R16
+S093,S094,Postogola,Jurain,0.856,haversine,R15
+S095,S096,Sadarghat,Victoria Park,0.488,haversine,R04;R11
+S096,S097,Victoria Park,Ray Saheb Bazar,0.511,haversine,R04;R11

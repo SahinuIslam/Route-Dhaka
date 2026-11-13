@@ -1,0 +1,5 @@
+stop_id,name,pieces_after_removal,stops_cut_off,cut_off_stops
+S04,Farmgate,2,4,"Gulistan, Karwan Bazar, Sadarghat, Shahbag"
+S05,Karwan Bazar,2,3,"Gulistan, Sadarghat, Shahbag"
+S06,Shahbag,2,2,"Gulistan, Sadarghat"
+S10,Gulistan,2,1,Sadarghat

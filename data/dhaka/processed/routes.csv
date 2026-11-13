@@ -1,0 +1,19 @@
+route_id,route_name,operator,source,confidence
+R01,Tongi - Motijheel (Airport Road via Farmgate),(fill in),constructed from known corridor - verify,unverified
+R02,Mirpur 12 - Motijheel (via Agargaon and Farmgate),(fill in),constructed from known corridor - verify,unverified
+R03,Aminbazar - Azimpur (Mirpur Road),(fill in),constructed from known corridor - verify,unverified
+R04,Mirpur 1 - Sadarghat (Mirpur Road via Shahbag),(fill in),constructed from known corridor - verify,unverified
+R05,Mirpur 10 - Badda (via Kochukhet and Mohakhali),(fill in),constructed from known corridor - verify,unverified
+R06,Mirpur 1 - Bashundhara (via Kalshi and Kuril),(fill in),constructed from known corridor - verify,unverified
+R07,Abdullahpur - Jatrabari (Progoti Sarani),(fill in),constructed from known corridor - verify,unverified
+R08,Mohammadpur - Kamalapur (via Farmgate and Paltan),(fill in),constructed from known corridor - verify,unverified
+R09,Mohammadpur - Gulistan (Satmasjid Road via Jigatola),(fill in),constructed from known corridor - verify,unverified
+R10,Aminbazar - Mirpur 12 (via Mazar Road),(fill in),constructed from known corridor - verify,unverified
+R11,Mohakhali - Sadarghat (via Tejgaon and Mogbazar),(fill in),constructed from known corridor - verify,unverified
+R12,Gulshan - Banani circular,(fill in),constructed from known corridor - verify,unverified
+R13,Kakoli - Banasree (via Gulshan 2 and Badda),(fill in),constructed from known corridor - verify,unverified
+R14,Bangla Motor - Motijheel (via Khilgaon and Mugda),(fill in),constructed from known corridor - verify,unverified
+R15,Postogola - Signboard (via Jatrabari),(fill in),constructed from known corridor - verify,unverified
+R16,Gulistan - Signboard (via Saidabad),(fill in),constructed from known corridor - verify,unverified
+R17,Gabtoli - Mohammadpur (Ring Road),(fill in),constructed from known corridor - verify,unverified
+R18,Shyamoli - Banasree (via Panthapath and Mogbazar),(fill in),constructed from known corridor - verify,unverified

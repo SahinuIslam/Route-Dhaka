@@ -1,0 +1,26 @@
+u,v,u_name,v_name,distance_km
+S001,S002,Tongi,Abdullahpur,1.988
+S002,S003,Abdullahpur,House Building,0.725
+S003,S004,House Building,Azampur,0.614
+S004,S005,Azampur,Jasimuddin,0.756
+S005,S006,Jasimuddin,Airport,1.441
+S006,S007,Airport,Kawla,1.109
+S007,S008,Kawla,Khilkhet,1.562
+S008,S009,Khilkhet,Kuril Bishwa Road,1.002
+S024,S086,Gulistan,Tikatuli,0.833
+S024,S097,Gulistan,Ray Saheb Bazar,1.224
+S029,S030,Mirpur 12,Mirpur 11,0.957
+S046,S098,Gabtoli,Aminbazar,1.875
+S054,S055,Science Lab,New Market,0.614
+S055,S056,New Market,Azimpur,0.684
+S072,S073,Rampura,Banasree,1.762
+S086,S087,Tikatuli,Saidabad,0.664
+S087,S088,Saidabad,Jatrabari,1.498
+S088,S089,Jatrabari,Kajla,0.768
+S088,S094,Jatrabari,Jurain,1.56
+S089,S090,Kajla,Shonir Akhra,0.795
+S090,S091,Shonir Akhra,Rayerbag,1.111
+S091,S092,Rayerbag,Signboard,2.16
+S093,S094,Postogola,Jurain,0.856
+S095,S096,Sadarghat,Victoria Park,0.488
+S096,S097,Victoria Park,Ray Saheb Bazar,0.511

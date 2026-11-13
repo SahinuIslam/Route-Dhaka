@@ -1,0 +1,102 @@
+stop_id,name,degree,routes_serving
+S024,Gulistan,6,6
+S014,Mohakhali,5,4
+S027,Paltan,5,4
+S054,Science Lab,5,3
+S031,Mirpur 10,4,4
+S050,Asad Gate,4,4
+S012,Kakoli,4,3
+S074,Malibagh,4,3
+S076,Mogbazar,4,3
+S019,Bangla Motor,3,5
+S018,Karwan Bazar,3,4
+S020,Shahbag,3,4
+S022,Press Club,3,4
+S025,Motijheel,3,4
+S048,Shyamoli,3,4
+S009,Kuril Bishwa Road,3,3
+S017,Farmgate,3,3
+S030,Mirpur 11,3,3
+S038,Mirpur 1,3,3
+S041,Technical,3,3
+S046,Gabtoli,3,3
+S052,Russell Square,3,3
+S062,Mohammadpur,3,3
+S070,Badda,3,3
+S072,Rampura,3,3
+S088,Jatrabari,3,3
+S010,MES,3,2
+S015,Jahangir Gate,3,2
+S016,Bijoy Sarani,3,2
+S068,Natun Bazar,3,2
+S081,Gulshan 1,3,2
+S082,Gulshan 2,3,2
+S021,Matsya Bhaban,2,4
+S047,Kallyanpur,2,3
+S049,College Gate,2,3
+S051,Dhanmondi 27,2,3
+S002,Abdullahpur,2,2
+S003,House Building,2,2
+S004,Azampur,2,2
+S005,Jasimuddin,2,2
+S006,Airport,2,2
+S007,Kawla,2,2
+S008,Khilkhet,2,2
+S023,GPO,2,2
+S026,Kamalapur,2,2
+S028,Fakirapool,2,2
+S037,Mirpur 2,2,2
+S053,Kalabagan,2,2
+S067,Bashundhara,2,2
+S069,Uttar Badda,2,2
+S071,Merul Badda,2,2
+S075,Mouchak,2,2
+S086,Tikatuli,2,2
+S087,Saidabad,2,2
+S089,Kajla,2,2
+S090,Shonir Akhra,2,2
+S091,Rayerbag,2,2
+S096,Victoria Park,2,2
+S097,Ray Saheb Bazar,2,2
+S011,Sainik Club,2,1
+S013,Chairman Bari,2,1
+S032,Kazipara,2,1
+S033,Shewrapara,2,1
+S034,Taltola,2,1
+S035,Agargaon,2,1
+S036,Khamarbari,2,1
+S039,Ansar Camp,2,1
+S040,Bangla College,2,1
+S042,Mirpur 14,2,1
+S043,Kochukhet,2,1
+S044,Kalshi,2,1
+S045,ECB Chattar,2,1
+S055,New Market,2,1
+S057,Nilkhet,2,1
+S058,Kataban,2,1
+S059,Palashi,2,1
+S060,Bakshi Bazar,2,1
+S061,Chankharpul,2,1
+S063,Town Hall,2,1
+S064,Adabor,2,1
+S065,Shankar,2,1
+S066,Jigatola,2,1
+S077,Kakrail,2,1
+S078,Shantinagar,2,1
+S079,Satrasta,2,1
+S080,Nabisco,2,1
+S083,Khilgaon,2,1
+S084,Basabo,2,1
+S085,Mugda,2,1
+S094,Jurain,2,1
+S099,Mazar Road,2,1
+S100,Panthapath,2,1
+S029,Mirpur 12,1,2
+S073,Banasree,1,2
+S092,Signboard,1,2
+S095,Sadarghat,1,2
+S098,Aminbazar,1,2
+S001,Tongi,1,1
+S056,Azimpur,1,1
+S093,Postogola,1,1
+S101,Jinjira,0,0

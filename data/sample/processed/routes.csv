@@ -1,0 +1,4 @@
+route_id,route_name,operator,source,confidence
+T1,Mirpur 1 - Shahbag (limited-stop),(toy example),hand-built teaching sample,sample
+T2,Mirpur 1 - Karwan Bazar (Mirpur Road),(toy example),hand-built teaching sample,sample
+T3,Shahbag - Sadarghat,(toy example),hand-built teaching sample,sample

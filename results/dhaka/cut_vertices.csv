@@ -1,0 +1,24 @@
+stop_id,name,pieces_after_removal,stops_cut_off,cut_off_stops
+S024,Gulistan,3,12,"Jatrabari, Jurain, Kajla, Postogola, Ray Saheb Bazar, Rayerbag, Sadarghat, Saidabad ..."
+S009,Kuril Bishwa Road,2,8,"Abdullahpur, Airport, Azampur, House Building, Jasimuddin, Kawla, Khilkhet, Tongi"
+S086,Tikatuli,2,8,"Jatrabari, Jurain, Kajla, Postogola, Rayerbag, Saidabad, Shonir Akhra, Signboard"
+S008,Khilkhet,2,7,"Abdullahpur, Airport, Azampur, House Building, Jasimuddin, Kawla, Tongi"
+S087,Saidabad,2,7,"Jatrabari, Jurain, Kajla, Postogola, Rayerbag, Shonir Akhra, Signboard"
+S007,Kawla,2,6,"Abdullahpur, Airport, Azampur, House Building, Jasimuddin, Tongi"
+S088,Jatrabari,3,6,"Jurain, Kajla, Postogola, Rayerbag, Shonir Akhra, Signboard"
+S006,Airport,2,5,"Abdullahpur, Azampur, House Building, Jasimuddin, Tongi"
+S005,Jasimuddin,2,4,"Abdullahpur, Azampur, House Building, Tongi"
+S004,Azampur,2,3,"Abdullahpur, House Building, Tongi"
+S089,Kajla,2,3,"Rayerbag, Shonir Akhra, Signboard"
+S003,House Building,2,2,"Abdullahpur, Tongi"
+S054,Science Lab,2,2,"Azimpur, New Market"
+S090,Shonir Akhra,2,2,"Rayerbag, Signboard"
+S097,Ray Saheb Bazar,2,2,"Sadarghat, Victoria Park"
+S002,Abdullahpur,2,1,Tongi
+S030,Mirpur 11,2,1,Mirpur 12
+S046,Gabtoli,2,1,Aminbazar
+S055,New Market,2,1,Azimpur
+S072,Rampura,2,1,Banasree
+S091,Rayerbag,2,1,Signboard
+S094,Jurain,2,1,Postogola
+S096,Victoria Park,2,1,Sadarghat

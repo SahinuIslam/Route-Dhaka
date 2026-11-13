@@ -1,0 +1,101 @@
+step,moved_into_S,distance_km,updated
+1,Mirpur 12,0.0,Mirpur 11=0.96
+2,Mirpur 11,0.96,"Mirpur 10=2.22, Kalshi=2.56"
+3,Mirpur 10,2.22,"Kazipara=3.35, Mirpur 2=2.91, Mirpur 14=4.32"
+4,Kalshi,2.56,ECB Chattar=4.04
+5,Mirpur 2,2.91,Mirpur 1=4.01
+6,Kazipara,3.35,Shewrapara=4.19
+7,Mirpur 1,4.01,"Ansar Camp=4.57, Mazar Road=5.03"
+8,ECB Chattar,4.04,MES=5.65
+9,Shewrapara,4.19,Taltola=4.92
+10,Mirpur 14,4.32,Kochukhet=5.29
+11,Ansar Camp,4.57,Bangla College=5.37
+12,Taltola,4.92,Agargaon=5.62
+13,Mazar Road,5.03,Gabtoli=6.05
+14,Kochukhet,5.29,Jahangir Gate=7.22
+15,Bangla College,5.37,Technical=5.82
+16,Agargaon,5.62,Bijoy Sarani=7.27
+17,MES,5.65,"Kuril Bishwa Road=7.32, Sainik Club=7.39"
+18,Technical,5.82,Kallyanpur=6.66
+19,Gabtoli,6.05,Aminbazar=7.92
+20,Kallyanpur,6.66,Shyamoli=7.34
+21,Jahangir Gate,7.22,Mohakhali=8.00
+22,Bijoy Sarani,7.27,Farmgate=8.20
+23,Kuril Bishwa Road,7.32,"Khilkhet=8.32, Bashundhara=8.16"
+24,Shyamoli,7.34,"College Gate=7.97, Adabor=8.34"
+25,Sainik Club,7.39,Kakoli=7.95
+26,Aminbazar,7.92,-
+27,Kakoli,7.95,"Chairman Bari=8.69, Gulshan 2=9.39"
+28,College Gate,7.97,Asad Gate=9.05
+29,Mohakhali,8.0,"Nabisco=9.09, Gulshan 1=9.20"
+30,Bashundhara,8.16,Natun Bazar=9.93
+31,Farmgate,8.2,"Karwan Bazar=9.05, Khamarbari=8.75"
+32,Khilkhet,8.32,Kawla=9.88
+33,Adabor,8.34,Mohammadpur=9.60
+34,Chairman Bari,8.69,-
+35,Khamarbari,8.75,-
+36,Karwan Bazar,9.05,"Bangla Motor=9.62, Panthapath=9.66"
+37,Asad Gate,9.05,"Dhanmondi 27=9.67, Town Hall=9.77"
+38,Nabisco,9.09,Satrasta=10.03
+39,Gulshan 1,9.2,Badda=10.17
+40,Gulshan 2,9.39,-
+41,Mohammadpur,9.6,Shankar=10.91
+42,Bangla Motor,9.62,"Shahbag=10.48, Mogbazar=10.59"
+43,Panthapath,9.66,Russell Square=10.53
+44,Dhanmondi 27,9.67,Russell Square=10.21
+45,Town Hall,9.77,-
+46,Kawla,9.88,Airport=10.99
+47,Natun Bazar,9.93,Uttar Badda=11.24
+48,Satrasta,10.03,-
+49,Badda,10.17,"Uttar Badda=10.78, Merul Badda=11.07"
+50,Russell Square,10.21,Kalabagan=10.75
+51,Shahbag,10.48,"Matsya Bhaban=11.40, Kataban=10.96"
+52,Mogbazar,10.59,"Mouchak=11.26, Kakrail=11.69"
+53,Kalabagan,10.75,Science Lab=11.79
+54,Uttar Badda,10.78,-
+55,Shankar,10.91,Jigatola=12.30
+56,Kataban,10.96,Science Lab=11.70
+57,Airport,10.99,Jasimuddin=12.43
+58,Merul Badda,11.07,Rampura=12.22
+59,Mouchak,11.26,Malibagh=11.72
+60,Matsya Bhaban,11.4,Press Club=11.89
+61,Kakrail,11.69,Paltan=12.48
+62,Science Lab,11.7,"New Market=12.31, Nilkhet=12.54"
+63,Malibagh,11.72,"Shantinagar=12.73, Khilgaon=12.95"
+64,Press Club,11.89,GPO=12.66
+65,Rampura,12.22,Banasree=13.99
+66,Jigatola,12.3,-
+67,New Market,12.31,Azimpur=13.00
+68,Jasimuddin,12.43,Azampur=13.19
+69,Paltan,12.48,"Gulistan=13.54, Fakirapool=12.89"
+70,Nilkhet,12.54,Palashi=13.03
+71,GPO,12.66,Gulistan=13.00
+72,Shantinagar,12.73,-
+73,Fakirapool,12.89,Motijheel=13.42
+74,Khilgaon,12.95,Basabo=14.27
+75,Azimpur,13.0,-
+76,Gulistan,13.0,"Chankharpul=14.18, Tikatuli=13.84, Ray Saheb Bazar=14.23"
+77,Palashi,13.03,Bakshi Bazar=13.71
+78,Azampur,13.19,House Building=13.80
+79,Motijheel,13.42,Kamalapur=14.02
+80,Bakshi Bazar,13.71,Chankharpul=14.09
+81,House Building,13.8,Abdullahpur=14.53
+82,Tikatuli,13.84,Saidabad=14.50
+83,Banasree,13.99,-
+84,Kamalapur,14.02,Mugda=14.54
+85,Chankharpul,14.09,-
+86,Ray Saheb Bazar,14.23,Victoria Park=14.74
+87,Basabo,14.27,-
+88,Saidabad,14.5,Jatrabari=16.00
+89,Abdullahpur,14.53,Tongi=16.52
+90,Mugda,14.54,-
+91,Victoria Park,14.74,Sadarghat=15.23
+92,Sadarghat,15.23,-
+93,Jatrabari,16.0,"Kajla=16.77, Jurain=17.56"
+94,Tongi,16.52,-
+95,Kajla,16.77,Shonir Akhra=17.56
+96,Jurain,17.56,Postogola=18.42
+97,Shonir Akhra,17.56,Rayerbag=18.67
+98,Postogola,18.42,-
+99,Rayerbag,18.67,Signboard=20.83
+100,Signboard,20.83,-

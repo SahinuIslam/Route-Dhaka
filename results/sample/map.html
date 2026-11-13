@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_2de7a9d01c7db7e1add204524762c30a {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_2de7a9d01c7db7e1add204524762c30a" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_2de7a9d01c7db7e1add204524762c30a = L.map(
+                "map_2de7a9d01c7db7e1add204524762c30a",
+                {
+                    center: [23.761700000000005, 90.38111818181818],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 12,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_c3dc4a259d36ea84ba358c309c3b05ab = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_c3dc4a259d36ea84ba358c309c3b05ab.addTo(map_2de7a9d01c7db7e1add204524762c30a);
+        
+    
+            var feature_group_4de4a7d4e0476954c4dfb4eade5a44a3 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var poly_line_d9ac723081128023cb08abccc326b558 = L.polyline(
+                [[23.7985, 90.3535], [23.807, 90.3685]],
+                {"bubblingMouseEvents": true, "color": "#898781", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#898781", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(feature_group_4de4a7d4e0476954c4dfb4eade5a44a3);
+        
+    
+            poly_line_d9ac723081128023cb08abccc326b558.bindTooltip(
+                `<div>
+                     Mirpur 1 - Mirpur 10: 1.80 km (T1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_86d15575d5259c12be732f22ccb2c863 = L.polyline(
+                [[23.7985, 90.3535], [23.7825, 90.3535]],
+                {"bubblingMouseEvents": true, "color": "#898781", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#898781", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(feature_group_4de4a7d4e0476954c4dfb4eade5a44a3);
+        
+    
+            poly_line_86d15575d5259c12be732f22ccb2c863.bindTooltip(
+                `<div>
+                     Mirpur 1 - Technical: 1.78 km (T2)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_944bc5e7ddcadb40f8ade231d059c4cc = L.polyline(
+                [[23.807, 90.3685], [23.778, 90.379]],
+                {"bubblingMouseEvents": true, "color": "#898781", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#898781", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(feature_group_4de4a7d4e0476954c4dfb4eade5a44a3);
+        
+    
+            poly_line_944bc5e7ddcadb40f8ade231d059c4cc.bindTooltip(
+                `<div>
+                     Mirpur 10 - Agargaon: 3.40 km (T1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_7dcf34a64205d7ac1abb9ff37471b125 = L.polyline(
+                [[23.778, 90.379], [23.7577, 90.3895]],
+                {"bubblingMouseEvents": true, "color": "#898781", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#898781", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(feature_group_4de4a7d4e0476954c4dfb4eade5a44a3);
+        
+    
+            poly_line_7dcf34a64205d7ac1abb9ff37471b125.bindTooltip(
+                `<div>
+                     Agargaon - Farmgate: 2.50 km (T1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_893ae50261cb5dc54271332aef0d1acd = L.polyline(
+                [[23.7577, 90.3895], [23.751, 90.3935]],
+                {"bubblingMouseEvents": true, "color": "#898781", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#898781", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(feature_group_4de4a7d4e0476954c4dfb4eade5a44a3);
+        
+    
+            poly_line_893ae50261cb5dc54271332aef0d1acd.bindTooltip(
+                `<div>
+                     Farmgate - Karwan Bazar: 0.85 km (T1, T2)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_851a41969632e59697a0a729f3f4dcfc = L.polyline(
+                [[23.7577, 90.3895], [23.7605, 90.3725]],
+                {"bubblingMouseEvents": true, "color": "#898781", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#898781", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(feature_group_4de4a7d4e0476954c4dfb4eade5a44a3);
+        
+    
+            poly_line_851a41969632e59697a0a729f3f4dcfc.bindTooltip(
+                `<div>
+                     Farmgate - Asad Gate: 1.76 km (T2)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_4e643a107ecc1c894a93322590399d3e = L.polyline(
+                [[23.751, 90.3935], [23.7385, 90.3958]],
+                {"bubblingMouseEvents": true, "color": "#898781", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#898781", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(feature_group_4de4a7d4e0476954c4dfb4eade5a44a3);
+        
+    
+            poly_line_4e643a107ecc1c894a93322590399d3e.bindTooltip(
+                `<div>
+                     Karwan Bazar - Shahbag: 1.41 km (T1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_fee5c8203fa4dc48125f40fd629822c1 = L.polyline(
+                [[23.7385, 90.3958], [23.7245, 90.412]],
+                {"bubblingMouseEvents": true, "color": "#898781", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#898781", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(feature_group_4de4a7d4e0476954c4dfb4eade5a44a3);
+        
+    
+            poly_line_fee5c8203fa4dc48125f40fd629822c1.bindTooltip(
+                `<div>
+                     Shahbag - Gulistan: 2.27 km (T3)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_cb9d41b97e7e0fda61287bbc3ff9c0f3 = L.polyline(
+                [[23.7825, 90.3535], [23.7745, 90.3655]],
+                {"bubblingMouseEvents": true, "color": "#898781", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#898781", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(feature_group_4de4a7d4e0476954c4dfb4eade5a44a3);
+        
+    
+            poly_line_cb9d41b97e7e0fda61287bbc3ff9c0f3.bindTooltip(
+                `<div>
+                     Technical - Shyamoli: 1.51 km (T2)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_c527efa48e033aa2ea9da35626af9343 = L.polyline(
+                [[23.7745, 90.3655], [23.7605, 90.3725]],
+                {"bubblingMouseEvents": true, "color": "#898781", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#898781", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(feature_group_4de4a7d4e0476954c4dfb4eade5a44a3);
+        
+    
+            poly_line_c527efa48e033aa2ea9da35626af9343.bindTooltip(
+                `<div>
+                     Shyamoli - Asad Gate: 1.71 km (T2)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_09d4f9f912e1cd044dcac21f12e8005f = L.polyline(
+                [[23.7245, 90.412], [23.706, 90.409]],
+                {"bubblingMouseEvents": true, "color": "#898781", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#898781", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(feature_group_4de4a7d4e0476954c4dfb4eade5a44a3);
+        
+    
+            poly_line_09d4f9f912e1cd044dcac21f12e8005f.bindTooltip(
+                `<div>
+                     Gulistan - Sadarghat: 2.08 km (T3)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            feature_group_4de4a7d4e0476954c4dfb4eade5a44a3.addTo(map_2de7a9d01c7db7e1add204524762c30a);
+        
+    
+            var feature_group_91de9c839aa5012e75c72bd180391594 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var poly_line_ba7b2fab15622ec94a707786b8d0e56c = L.polyline(
+                [[23.7577, 90.3895], [23.751, 90.3935]],
+                {"bubblingMouseEvents": true, "color": "#1baf7a", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#1baf7a", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 5}
+            ).addTo(feature_group_91de9c839aa5012e75c72bd180391594);
+        
+    
+            var poly_line_f6ed63dcb354ea12fe7a38dae6114138 = L.polyline(
+                [[23.751, 90.3935], [23.7385, 90.3958]],
+                {"bubblingMouseEvents": true, "color": "#1baf7a", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#1baf7a", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 5}
+            ).addTo(feature_group_91de9c839aa5012e75c72bd180391594);
+        
+    
+            var poly_line_4fdfa987ede362248cf0023307495782 = L.polyline(
+                [[23.7825, 90.3535], [23.7745, 90.3655]],
+                {"bubblingMouseEvents": true, "color": "#1baf7a", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#1baf7a", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 5}
+            ).addTo(feature_group_91de9c839aa5012e75c72bd180391594);
+        
+    
+            var poly_line_949cafa88701ec97bebe6edde66c748b = L.polyline(
+                [[23.7745, 90.3655], [23.7605, 90.3725]],
+                {"bubblingMouseEvents": true, "color": "#1baf7a", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#1baf7a", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 5}
+            ).addTo(feature_group_91de9c839aa5012e75c72bd180391594);
+        
+    
+            var poly_line_5a223869a0f31f43639acc5991c8e60d = L.polyline(
+                [[23.7577, 90.3895], [23.7605, 90.3725]],
+                {"bubblingMouseEvents": true, "color": "#1baf7a", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#1baf7a", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 5}
+            ).addTo(feature_group_91de9c839aa5012e75c72bd180391594);
+        
+    
+            var poly_line_19e276317dafccf0d30409abe116b334 = L.polyline(
+                [[23.7985, 90.3535], [23.7825, 90.3535]],
+                {"bubblingMouseEvents": true, "color": "#1baf7a", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#1baf7a", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 5}
+            ).addTo(feature_group_91de9c839aa5012e75c72bd180391594);
+        
+    
+            var poly_line_19553756d396fe7ad6d4210d5c51dc5e = L.polyline(
+                [[23.7985, 90.3535], [23.807, 90.3685]],
+                {"bubblingMouseEvents": true, "color": "#1baf7a", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#1baf7a", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 5}
+            ).addTo(feature_group_91de9c839aa5012e75c72bd180391594);
+        
+    
+            var poly_line_a3f620dbac232da48aa3b3636052e5c6 = L.polyline(
+                [[23.7245, 90.412], [23.706, 90.409]],
+                {"bubblingMouseEvents": true, "color": "#1baf7a", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#1baf7a", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 5}
+            ).addTo(feature_group_91de9c839aa5012e75c72bd180391594);
+        
+    
+            var poly_line_0a8b48b4dc63c373012a8e4d00e85842 = L.polyline(
+                [[23.7385, 90.3958], [23.7245, 90.412]],
+                {"bubblingMouseEvents": true, "color": "#1baf7a", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#1baf7a", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 5}
+            ).addTo(feature_group_91de9c839aa5012e75c72bd180391594);
+        
+    
+            var poly_line_2d727790fe01fa7e6220a9b3099feb38 = L.polyline(
+                [[23.778, 90.379], [23.7577, 90.3895]],
+                {"bubblingMouseEvents": true, "color": "#1baf7a", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#1baf7a", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 5}
+            ).addTo(feature_group_91de9c839aa5012e75c72bd180391594);
+        
+    
+            feature_group_91de9c839aa5012e75c72bd180391594.addTo(map_2de7a9d01c7db7e1add204524762c30a);
+        
+    
+            var feature_group_ef4318318d21606384824acffc5733e2 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var poly_line_576cc66f9caef1ad4f144c3355fabc0c = L.polyline(
+                [[23.7985, 90.3535], [23.7825, 90.3535], [23.7745, 90.3655], [23.7605, 90.3725], [23.7577, 90.3895]],
+                {"bubblingMouseEvents": true, "color": "#2a78d6", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#2a78d6", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 6}
+            ).addTo(feature_group_ef4318318d21606384824acffc5733e2);
+        
+    
+            poly_line_576cc66f9caef1ad4f144c3355fabc0c.bindTooltip(
+                `<div>
+                     Mirpur 1 -> Technical -> Shyamoli -> Asad Gate -> Farmgate
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            feature_group_ef4318318d21606384824acffc5733e2.addTo(map_2de7a9d01c7db7e1add204524762c30a);
+        
+    
+            var feature_group_58e6de6d0ca0fd93d5217dceadd933ad = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var circle_marker_8a7cd5d010b8241eeac18e6383af16fd = L.circleMarker(
+                [23.7985, 90.3535],
+                {"bubblingMouseEvents": true, "color": "#52514e", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#52514e", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(feature_group_58e6de6d0ca0fd93d5217dceadd933ad);
+        
+    
+            circle_marker_8a7cd5d010b8241eeac18e6383af16fd.bindTooltip(
+                `<div>
+                     Mirpur 1 (S01), degree 2
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f4a33b5bb2db4828f75ee60edb83579c = L.circleMarker(
+                [23.807, 90.3685],
+                {"bubblingMouseEvents": true, "color": "#52514e", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#52514e", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(feature_group_58e6de6d0ca0fd93d5217dceadd933ad);
+        
+    
+            circle_marker_f4a33b5bb2db4828f75ee60edb83579c.bindTooltip(
+                `<div>
+                     Mirpur 10 (S02), degree 2
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_963a04ce3148426475b7e514a3b02596 = L.circleMarker(
+                [23.778, 90.379],
+                {"bubblingMouseEvents": true, "color": "#52514e", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#52514e", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(feature_group_58e6de6d0ca0fd93d5217dceadd933ad);
+        
+    
+            circle_marker_963a04ce3148426475b7e514a3b02596.bindTooltip(
+                `<div>
+                     Agargaon (S03), degree 2
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_29de3b33f742dc0abec0043c639fbe41 = L.circleMarker(
+                [23.7577, 90.3895],
+                {"bubblingMouseEvents": true, "color": "#e34948", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e34948", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(feature_group_58e6de6d0ca0fd93d5217dceadd933ad);
+        
+    
+            circle_marker_29de3b33f742dc0abec0043c639fbe41.bindTooltip(
+                `<div>
+                     Farmgate (S04), degree 3 - cut vertex
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_bc443fb70d60cfcb746e6fd4c27e5401 = L.circleMarker(
+                [23.751, 90.3935],
+                {"bubblingMouseEvents": true, "color": "#e34948", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e34948", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(feature_group_58e6de6d0ca0fd93d5217dceadd933ad);
+        
+    
+            circle_marker_bc443fb70d60cfcb746e6fd4c27e5401.bindTooltip(
+                `<div>
+                     Karwan Bazar (S05), degree 2 - cut vertex
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_0ee507663bfc1ac947a5208a2614f31b = L.circleMarker(
+                [23.7385, 90.3958],
+                {"bubblingMouseEvents": true, "color": "#e34948", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e34948", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(feature_group_58e6de6d0ca0fd93d5217dceadd933ad);
+        
+    
+            circle_marker_0ee507663bfc1ac947a5208a2614f31b.bindTooltip(
+                `<div>
+                     Shahbag (S06), degree 2 - cut vertex
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_fc748e9daa7ba1d51f861fdd34de8793 = L.circleMarker(
+                [23.7825, 90.3535],
+                {"bubblingMouseEvents": true, "color": "#52514e", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#52514e", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(feature_group_58e6de6d0ca0fd93d5217dceadd933ad);
+        
+    
+            circle_marker_fc748e9daa7ba1d51f861fdd34de8793.bindTooltip(
+                `<div>
+                     Technical (S07), degree 2
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_74c7f1a7e6c98350ea4e118f6769a6e4 = L.circleMarker(
+                [23.7745, 90.3655],
+                {"bubblingMouseEvents": true, "color": "#52514e", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#52514e", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(feature_group_58e6de6d0ca0fd93d5217dceadd933ad);
+        
+    
+            circle_marker_74c7f1a7e6c98350ea4e118f6769a6e4.bindTooltip(
+                `<div>
+                     Shyamoli (S08), degree 2
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_cd2db4a21a9f882f0d20d22cbdc50139 = L.circleMarker(
+                [23.7605, 90.3725],
+                {"bubblingMouseEvents": true, "color": "#52514e", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#52514e", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(feature_group_58e6de6d0ca0fd93d5217dceadd933ad);
+        
+    
+            circle_marker_cd2db4a21a9f882f0d20d22cbdc50139.bindTooltip(
+                `<div>
+                     Asad Gate (S09), degree 2
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_acdb0dc3cab6b12810c7811a551da767 = L.circleMarker(
+                [23.7245, 90.412],
+                {"bubblingMouseEvents": true, "color": "#e34948", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e34948", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(feature_group_58e6de6d0ca0fd93d5217dceadd933ad);
+        
+    
+            circle_marker_acdb0dc3cab6b12810c7811a551da767.bindTooltip(
+                `<div>
+                     Gulistan (S10), degree 2 - cut vertex
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_8ea8c7e8827a7483c7d52f6de825a6e3 = L.circleMarker(
+                [23.706, 90.409],
+                {"bubblingMouseEvents": true, "color": "#52514e", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#52514e", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(feature_group_58e6de6d0ca0fd93d5217dceadd933ad);
+        
+    
+            circle_marker_8ea8c7e8827a7483c7d52f6de825a6e3.bindTooltip(
+                `<div>
+                     Sadarghat (S11), degree 1
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            feature_group_58e6de6d0ca0fd93d5217dceadd933ad.addTo(map_2de7a9d01c7db7e1add204524762c30a);
+        
+    
+            var layer_control_665eb5e82c40ea874f0488ed7df57b5f_layers = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_c3dc4a259d36ea84ba358c309c3b05ab,
+                },
+                overlays :  {
+                    "All links" : feature_group_4de4a7d4e0476954c4dfb4eade5a44a3,
+                    "Minimum spanning tree" : feature_group_91de9c839aa5012e75c72bd180391594,
+                    "Shortest path example" : feature_group_ef4318318d21606384824acffc5733e2,
+                    "Stops" : feature_group_58e6de6d0ca0fd93d5217dceadd933ad,
+                },
+            };
+            let layer_control_665eb5e82c40ea874f0488ed7df57b5f = L.control.layers(
+                layer_control_665eb5e82c40ea874f0488ed7df57b5f_layers.base_layers,
+                layer_control_665eb5e82c40ea874f0488ed7df57b5f_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": false,
+  "autoZIndex": true,
+}
+            ).addTo(map_2de7a9d01c7db7e1add204524762c30a);
+
+        
+</script>
+</html>
